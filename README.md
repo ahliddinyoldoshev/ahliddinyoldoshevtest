@@ -1,0 +1,2 @@
+# ahliddinyoldoshevtest
+testlar
